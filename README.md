@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarishmaABC
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Machine Learning
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Karishmashinde8010@gmail.com
